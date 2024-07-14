@@ -1,0 +1,9 @@
+/* decendent selector */
+ul li a{
+    color: red;
+    font-size: 20px;
+    text-decoration: none;
+}
+ol > li{
+    background-color: yellow;
+}
