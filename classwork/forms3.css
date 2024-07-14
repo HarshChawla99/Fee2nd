@@ -1,0 +1,64 @@
+body{
+    margin-left: 26%;
+    font-family: "Titillium Web", sans-serif;
+    background-color: rgb(193, 250, 238);
+    border: 3px solid black;
+ 
+   padding: 10px 40px 20px 40px;
+   width: 650px;
+   
+    
+    
+}
+
+.mail{
+    font-size: 16px;
+}
+.headingg{
+    font-weight: 700;
+    margin-left: 26%;
+    text-shadow: 3px 3px rgb(229, 216, 216);
+}
+.submit{
+    border-radius: 6px;
+    height: 34px;
+    width: 90px;
+    margin-left: 42%;
+    background-color: rgb(255, 255, 255);
+    font-family: "Exo 2", sans-serif;
+    font-weight: 700;
+  border-width: 3px;
+  box-shadow: 1px 1px 3px black;
+  font-size: 14px;
+  transition: 0.2s;
+
+}
+::placeholder{
+    font-family: "Playwrite GB S", cursive;
+    padding-left: 1px;
+}
+option{
+   
+    font-family: "Titillium Web", sans-serif;
+}
+
+hr{
+    color: black;
+    background-color: black;
+    height: 2px;
+
+}
+.submit:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+width: 95px;
+   
+}
+.cout{
+    margin-left: 15px;
+}
+#res{
+   
+   font-size:15px;
+ 
+}
