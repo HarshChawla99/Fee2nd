@@ -1,0 +1,64 @@
+*{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#fruits {
+    color: red;
+    border: 2.4px dotted blue;
+    list-style:disc;
+    
+
+}
+ul{
+    list-style-image: url('./img/viratt.jpg');
+   
+    
+    
+}
+
+input[placeholder="Enter your email"]
+
+{
+    background-color: rgba(255, 109, 133, 0.578);
+padding-left: 10px;
+
+}
+input::placeholder{
+    color: black;
+}
+#mailid{
+font-weight: 600;
+}
+
+.a1{
+    font-weight: 600;
+    color: red;
+    
+}
+.a2{
+    font-weight: 600;
+    color: orange;
+}
+.a3{
+    font-weight: 600;
+    text-decoration: line-through;
+    color: rgba(25, 172, 62, 0.646);
+}
+p{
+    background-color: rgba(3, 255, 171, 0.47)
+}
+input[type="text"]{
+    background-color: orange;
+    height: 40px;
+    width: 250px;
+}
+input[type="password"]{
+    background-color: white;
+    height: 40px;
+    width: 250px;
+}
+input[type="number"]{
+    background-color: green;
+    height: 40px;
+    width: 250px;
+}
