@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lexend:wght@100..900&display=swap');
+
+
+.but{
+    
+    width: 150px;
+background-color: rgb(88, 88, 247);
+border-radius: 6px;
+border: 2px solid black;
+}
+.u{
+color: white;
+}
+.y{
+    color: white;
+
+}
